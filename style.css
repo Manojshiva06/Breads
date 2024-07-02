@@ -1,0 +1,109 @@
+.banner{
+    background: black;
+    color: white;
+}
+.hero-section {
+    background-image: url('https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/7498296e4db8581c94ab1c35/uyy.jpg'); /* Update the path as needed */
+    height: 100vh; /* Full height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+   
+}
+
+.copy{
+    display: flex;
+    background: black;
+    color: white;
+    justify-content: center;
+}
+
+.customer{
+    background: rgb(102, 101, 101);
+    padding: 5% 10%;
+}
+
+.customer>.container{
+    background-color: white;
+}
+
+
+.list{
+    list-style-type:none;
+
+}
+.sbg{
+    padding-bottom: 3%;
+}
+.brownies{
+    margin: 15px;
+   
+}
+.brown{
+    background: black;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 15px;
+    
+}
+.one{
+    border-radius: 100%;
+    border-top-left-radius:100% !important ;
+    border-top-right-radius:100% !important ;
+    width: 100% !important;
+    padding: 10%;
+
+}
+.bread{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 3%;
+}
+.bread>div{
+    padding: 0% 20%;
+}
+.starting{
+  
+    text-align: center;
+    justify-content: center;
+    padding: 20%;
+}
+.navfol{
+    display: flex;
+    justify-content: flex-end;
+}
+.attribute{
+    position: fixed;
+    background: white !important;
+    
+}
+.card-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.footer1{
+    padding-top: 3%;
+}
+.sweets{
+   flex-direction: column;
+}
+.card{
+    border: none;
+    
+    border-color: white;
+}
+.nav-link:hover{
+    background: gray;
+    border-radius: 5%;
+}
